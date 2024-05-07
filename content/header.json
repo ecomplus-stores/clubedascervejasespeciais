@@ -1,8 +1,22 @@
 {
-  "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+  "categories_list": {
+    "featured": [],
+    "random": 6,
+    "full_width": false
   },
+  "menu_all_departments": false,
+  "centralized_logo": false,
+  "marketing_stripe": {
+    "text": "FAÇA PARTE DO MELHOR CLUBE DE CERVEJAS ESPECIAIS DO BRASIL !",
+    "link": "/promotion",
+    "background": "#000000",
+    "color": "#177751"
+  },
+  "alphabetical_order_submenu": false,
+  "name_all_departments": "",
+  "search_input": true,
+  "desktop_megamenu": false,
+  "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
       {
@@ -16,17 +30,5 @@
     ],
     "phone_wpp": true,
     "socials": true
-  },
-  "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
-  },
-  "centralized_logo": false,
-  "desktop_megamenu": false,
-  "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false,
-  "menu_all_departments": false,
-  "name_all_departments": ""
+  }
 }
