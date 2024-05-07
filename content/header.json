@@ -5,12 +5,12 @@
     "full_width": false
   },
   "menu_all_departments": false,
-  "centralized_logo": false,
+  "centralized_logo": true,
   "marketing_stripe": {
     "text": "FAÇA PARTE DO MELHOR CLUBE DE CERVEJAS ESPECIAIS DO BRASIL !",
     "link": "/promotion",
     "background": "#000000",
-    "color": "#177751"
+    "color": "#faaf1c"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
@@ -18,17 +18,8 @@
   "desktop_megamenu": false,
   "full_width_submenu": false,
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
   }
 }
