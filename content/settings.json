@@ -1,12 +1,12 @@
 {
   "domain": "clubedascervejasespeciais.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#faaf1c",
+  "primary_color": "#000000",
   "theme": {
-    "bootswatch": "cyborg",
-    "custom": "_"
+    "bootswatch": "minty",
+    "custom": "clean-white"
   },
-  "bg_color": "#faaf1c",
+  "bg_color": "#000000",
   "repository": "ecomplus-stores/clubedascervejasespeciais",
   "logo": "/img/uploads/logo.webp",
   "name": "Clube das Cervejas Especiais",
@@ -16,11 +16,11 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/favicon.webp",
-  "icons_font": "_",
+  "icons_font": "line-awesome",
   "country_code": "BR",
   "secondary_color": "#ffffff",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/favicon.webp",
   "store_id": 51521,
   "description": "Prepare-se para uma experiência cervejeira como nenhuma outra! No Clube das Cervejas Especiais, estamos elevando o jogo da cerveja para outro patamar.",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logo.webp"
 }
