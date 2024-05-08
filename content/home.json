@@ -29,8 +29,13 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "66396d5632d4fe4710f2b09d:categories:Cervejas Especiais:/cervejas-especiais"
+      ]
     }
   ]
 }
