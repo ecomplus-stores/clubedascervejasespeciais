@@ -1,5 +1,5 @@
 {
-  "css": ".ecom-credits{\n  display: none;\n}",
+  "css": ".ecom-credits{\n  display: none;\n}\n\n.btn .btn-primary .btn-block{\n  color:blue;\n}",
   "html_head": "",
   "html_body": ""
 }
