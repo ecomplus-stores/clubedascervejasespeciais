@@ -1,5 +1,5 @@
 {
-  "css": ".ecom-credits{\n  display: none;\n}\n\n.page-title__head {\n  visibility: hidden;\n}\n\n.lead {\n  visibility: hidden;\n}",
+  "css": ".ecom-credits{\n  display: none;\n}\n\n.page-title__head {\n  visibility: hidden;\n}\n\n.lead {\n  visibility: hidden;\n}\n\nmain .header {\n  background-color: black;\n}",
   "html_head": "",
   "html_body": ""
 }
