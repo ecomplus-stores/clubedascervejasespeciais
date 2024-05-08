@@ -22,10 +22,7 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection",
-      "width": 150,
-      "height": 62
+      "src": "/img/uploads/logo_site_blindado.svg"
     }
   ],
   "payment_methods": {
