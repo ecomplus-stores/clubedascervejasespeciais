@@ -9,8 +9,8 @@
   "marketing_stripe": {
     "text": "FAÇA PARTE DO MELHOR CLUBE DE CERVEJAS ESPECIAIS DO BRASIL !",
     "link": "/promotion",
-    "background": "#000000",
-    "color": "#faaf1c"
+    "background": "#faaf1c",
+    "color": "#000000"
   },
   "alphabetical_order_submenu": false,
   "popup": "/img/uploads/og-image.png",
