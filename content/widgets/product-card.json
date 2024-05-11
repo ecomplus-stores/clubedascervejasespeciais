@@ -3,8 +3,8 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "Assinar",
-    "buy": "\n",
+    "buyText": "Assinar Plano",
+    "buy": "",
     "footer": ""
   }
 }
