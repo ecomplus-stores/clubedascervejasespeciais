@@ -51,6 +51,17 @@
       "load_more": false
     },
     {
+      "type": "custom-html",
+      "html": "<h2 style=\"text-align: center;\"> LUPULO </h2>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66396d5632d4fe4710f2b09d:categories:Cervejas Especiais:/cervejas-especiais"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
