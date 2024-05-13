@@ -48,7 +48,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h2 style=\"text-align: center;\"> Clube - Linha (Nome) </h2"
+      "html": "\n\n<div class=\"title-1-clube\"> <h2 style=\"text-align: center;\"> &#9733; Clube - Linha (Nome) &#9733; </h2> </div>\n\n\n\n<style>\n\n\n\n.title-1-clube {\n  margin: 0 auto;\n  width: 30rem;\n  padding-top: 30%;\n  }\n\n.title-1-clube h2 {\n  color:#d7781f\n\n</style>"
     },
     {
       "type": "collection-shelf",
