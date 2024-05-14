@@ -1,7 +1,7 @@
 {
   "domain": "clubedascervejasespeciais.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "minty",
     "custom": "clean-white"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.webp",
   "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#ffffff",
+  "secondary_color": "",
   "icon": "/img/uploads/favicon.webp",
   "store_id": 51521,
   "description": "Prepare-se para uma experiência cervejeira como nenhuma outra! No Clube das Cervejas Especiais, estamos elevando o jogo da cerveja para outro patamar.",
