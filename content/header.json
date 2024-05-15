@@ -19,7 +19,12 @@
   "desktop_megamenu": false,
   "full_width_submenu": false,
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Teste",
+        "link": "Teste"
+      }
+    ],
     "phone_wpp": false,
     "socials": false
   }
