@@ -15,16 +15,11 @@
   "alphabetical_order_submenu": false,
   "popup": "/img/uploads/a-verdadeira-cerveja-especial.webp",
   "name_all_departments": "",
-  "search_input": true,
+  "search_input": false,
   "desktop_megamenu": false,
   "full_width_submenu": false,
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Teste",
-        "link": "Teste"
-      }
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": false
   }
