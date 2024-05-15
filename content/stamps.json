@@ -1,3 +1,16 @@
 {
-  "stamps_list": []
+  "stamps_list": [
+    {
+      "img": "/img/uploads/b.png",
+      "skus": [
+        "SQC1521-C334-C544",
+        "XOF6775",
+        "SQC1521",
+        "c1",
+        "SQC1521-C334",
+        "SQC1521-C334-C544-C941",
+        "SQC1521-C334-C544-C941-C369"
+      ]
+    }
+  ]
 }
