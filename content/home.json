@@ -56,6 +56,10 @@
     },
     {
       "type": "custom-html",
+      "html": "<h2 style=\"text-align: center;\"> Qual mais combina com você ? </h2>\n\n<style>\n  \n  h2{\n    color:black;\n  }\n  \n  \n</style>"
+    },
+    {
+      "type": "custom-html",
       "html": "\n\n<div class=\"title-1-clube\"> <h2 class=\"title-clube-h2\">  LISTA DE ASSINATURAS  </h2> </div>\n\n\n\n<style>\n\n\n\n.title-1-clube {\n  margin: 0 auto;\n  padding-top: 15%;\n  text-align: center;\n  justify-content: center;\n  overflow-x: hidden;\n  }\n\n.title-clube-h2 {\n  padding: 5px;\n  color: white;\n  text-align: center;\n  overflow-x: hidden;\n  margin: 0 auto;\n  width: auto;\n  background: #00826b;\n  border-radius: 10px;\n   \n  }\n</style>"
     },
     {
