@@ -56,7 +56,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<link href=\"https://fonts.cdnfonts.com/css/neo-sans-pro\" rel=\"stylesheet\">\n\n\n<div id=\"combina\">\n<h2 style=\"text-align: center;\"> Qual mais combina com você ? </h2>\n  <p> ESCOLHA A BOX QUE MAIS COMBINA COM VOCÊ </p>\n</div>\n\n<style>\n  \n  #combina h2{\n    color:black;\n    font-size: 2rem;\n    box-sizing: border-box;\n    font-family: 'Neo Sans Pro', sans-serif;\n  }\n\n#combina p {\n  font-size: 1rem;\n   font-family: 'Neo Sans Pro', sans-serif;\n    color: black;\n  \n  \n\n    \n  \n  \n</style>"
+      "html": "<link href=\"https://fonts.cdnfonts.com/css/neo-sans-pro\" rel=\"stylesheet\">\n\n\n<div id=\"combina\">\n<h2 style=\"text-align: center;\"> Qual mais combina com você ? </h2>\n  <p> ESCOLHA SUA BOX  </p>\n</div>\n\n<style>\n  \n  #combina h2{\n    color:black;\n    font-size: 2rem;\n    box-sizing: border-box;\n    font-family: 'Neo Sans Pro', sans-serif;\n  }\n\n#combina p {\n  font-size: 1rem;\n   font-family: 'Neo Sans Pro', sans-serif;\n    color: black;\n  \n  \n\n    \n  \n  \n</style>"
     },
     {
       "type": "collection-shelf",
