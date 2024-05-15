@@ -2,5 +2,11 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "**Sobre Nós - Clube das Cervejas Especiais**\n\nO Clube das Cervejas Especiais é apaixonado por oferecer uma seleção exclusiva das melhores cervejas artesanais. Fundado em \\[ano de fundação], nosso objetivo é proporcionar uma experiência única aos amantes de cerveja, trazendo produtos de alta qualidade e sabor incomparável.\n\n**Nossa História**\n\nDesde a nossa fundação, buscamos promover a cultura cervejeira, valorizando a diversidade de estilos e sabores. Queremos compartilhar nossa paixão pela cerveja artesanal, proporcionando momentos de descoberta e apreciação para nossos membros.\n\n**Nossa Missão**\n\nNossa missão é promover a cultura cervejeira, valorizando a diversidade de estilos e sabores. Queremos compartilhar nossa paixão pela cerveja artesanal, proporcionando momentos de descoberta e apreciação para nossos membros.\n\n**Nossos Valores**\n\n* **Qualidade:** Selecionamos apenas as melhores cervejas artesanais, garantindo a qualidade em cada garrafa.\n* **Diversidade:** Valorizamos a variedade de estilos e sabores, buscando oferecer opções para todos os gostos.\n* **Comunidade:** Acreditamos na importância da comunidade cervejeira, promovendo encontros, eventos e trocas de experiências entre nossos membros.\n\n**Direitos Autorais**\n\n© 2024 Clube das Cervejas Especiais. Todos os direitos reservados.",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/favicon.webp"
+    }
+  ]
 }
