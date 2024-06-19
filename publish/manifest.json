@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.1a51a1f274556ed013790b78404d3acc.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_384x384.1a51a1f274556ed013790b78404d3acc.webp",
+      "sizes": "384x384",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_192x192.ae70f39222878b61282d5fc83d6b96ba.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_128x128.ae70f39222878b61282d5fc83d6b96ba.webp",
+      "sizes": "128x128",
+      "type": "image/webp"
+    },
+    {
+      "src": "/icon_96x96.ae70f39222878b61282d5fc83d6b96ba.webp",
+      "sizes": "96x96",
+      "type": "image/webp"
+    }
+  ],
+  "name": "Clube das Cervejas Especiais",
+  "short_name": "Clube Cervejas Especiais",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Prepare-se para uma experiência cervejeira como nenhuma outra! No Clube das Cervejas Especiais, estamos elevando o jogo da cerveja para outro patamar.",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
